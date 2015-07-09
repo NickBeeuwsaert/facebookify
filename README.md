@@ -20,7 +20,7 @@ Example:
 --------
 Before:
 
-![Minions 4 lyfe](minion)
+![Minions 4 lyfe](minion.png)
 
 After:
 
