@@ -24,5 +24,5 @@ Before:
 
 After:
 
-![This one looks way better than the original](minion_facebooked.png)
+![This one looks way better than the original, esp. the sharpen](minion_facebooked.png)
 
